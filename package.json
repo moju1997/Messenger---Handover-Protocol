@@ -1,0 +1,25 @@
+{
+  "name": "messnger-webbook",
+  "version": "1.0.0",
+  "description": "Facbook Messanger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moju1997/messanger.git"
+  },
+  "keywords": [
+    "messenger"
+  ],
+  "author": "mojahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moju1997/messanger/issues"
+  },
+  "homepage": "https://github.com/moju1997/messanger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
